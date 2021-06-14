@@ -3,15 +3,15 @@
  *  Copyright 2021 Rafael Nieves
  */
 
-package oop.exercises.ex33;
+package oop.exercises.ex37;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class ex33Test {
+class PasswordCodeTest {
 
     @Test
-    void randomNumber() {
+    void passwordCreator() {
     }
 }

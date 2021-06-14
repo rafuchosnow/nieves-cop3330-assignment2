@@ -1,0 +1,13 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+start
+
+repeat
+  :ask user amount of numbers;
+  :add up the numbers as they are typed;
+repeat while (have all the numbers been typed?) is (no)
+->yes;
+  :show summation of numbers;
+stop
+@enduml

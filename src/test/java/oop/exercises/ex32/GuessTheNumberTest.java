@@ -9,10 +9,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class ex32Test {
+class GuessTheNumberTest {
 
     @Test
-    void main() {
-
+    void playGame() {
     }
 }
